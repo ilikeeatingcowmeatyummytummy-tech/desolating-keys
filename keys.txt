@@ -1,5 +1,1 @@
-admin-key-z1
-admin=key-z2
-admin=key-z3
-admin=key-z4
-admin=key-z5
+o2
